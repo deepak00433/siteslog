@@ -1,3 +1,6 @@
 force
 pressure
+shrodinger equation derivation
+time dependent and time independent
+
 
